@@ -8,6 +8,9 @@ This project aims to create a UFO Sighting website that showcases sighting data 
 - Software: JavaScript, HTML, CSS
 
 ## Website How-To
+
+Link to UFO Sightings Website = http://127.0.0.1:5500/Challenge/web/index.html
+
 ![UFO_sighting_webpage](Challenge/readme_images/Ufo_webpage.png)
 Pictured above is how the website looks upon launch.
 
